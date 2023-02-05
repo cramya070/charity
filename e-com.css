@@ -431,8 +431,12 @@ textarea.input {
 }
 
 .btn:hover {
-  background-color: transparent;
-  color: #fff;
+  background-color:black;
+  color:white;
+}
+
+.si{
+  width:150px;
 }
 
 .input-container143 span {
